@@ -11,11 +11,11 @@ It searches for houses for purchase or rent in a given neighborhood and calculat
 
 ### Config structure
 Create a file called `config.json`, copy over the text from `config.json.example`, and edit the necessary information.
-```json
+```
 {
     "ZWSID": "Your ZWS-ID you got from registering",
     "neighborhood": "Great Neck, NY",
-    "sort": "days"            // sort by parameter: see options below
+    "sort": "days",           // sort by parameter: see options below
     "filters": {
         "price_min": 0,       // minimum house price
         "price_max": 1000000, // maximum house price (leave at 0 for no maximum, -1 for rent only)

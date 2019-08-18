@@ -1,6 +1,7 @@
 {
     "ZWSID": "",
     "neighborhood": "Great Neck, NY",
+    "sort": "days",
     "filters": {
         "price_min": 0,
         "price_max": 0,
