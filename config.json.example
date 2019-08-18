@@ -1,0 +1,14 @@
+{
+    "ZWSID": "",
+    "neighborhood": "Great Neck, NY",
+    "filters": {
+        "price_min": 0,
+        "price_max": 0,
+        "rent_min": 0,
+        "rent_max": 0,
+        "beds": "-1",
+        "baths": 0,
+        "sqft_min": 0,
+        "sqft_max": 0
+    }
+}
